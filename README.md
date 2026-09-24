@@ -1,6 +1,6 @@
 # Hi, I'm Ronit Kumar 👋
 
-### Embedded Software Engineer | C/C++ | Linux | Firmware | RISC-V
+Embedded Software Engineer | C/C++ | Linux | Firmware | RISC-V | SoC Validation
 
 I am an Embedded Software Engineer with experience in SoC validation,
 embedded testing, firmware development, and pre/post-silicon validation.
